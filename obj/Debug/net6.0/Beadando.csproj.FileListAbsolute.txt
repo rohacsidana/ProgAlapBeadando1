@@ -1,0 +1,14 @@
+C:\Users\l6xge4\source\repos\Beadando\bin\Debug\net6.0\Beadando.exe
+C:\Users\l6xge4\source\repos\Beadando\bin\Debug\net6.0\Beadando.deps.json
+C:\Users\l6xge4\source\repos\Beadando\bin\Debug\net6.0\Beadando.runtimeconfig.json
+C:\Users\l6xge4\source\repos\Beadando\bin\Debug\net6.0\Beadando.dll
+C:\Users\l6xge4\source\repos\Beadando\bin\Debug\net6.0\Beadando.pdb
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.AssemblyInfoInputs.cache
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.AssemblyInfo.cs
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.csproj.CoreCompileInputs.cache
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.dll
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\refint\Beadando.dll
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.pdb
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\Beadando.genruntimeconfig.cache
+C:\Users\l6xge4\source\repos\Beadando\obj\Debug\net6.0\ref\Beadando.dll
